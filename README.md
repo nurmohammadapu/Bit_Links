@@ -77,9 +77,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## 📦 Deployment
 
 This project is ready to deploy on **Vercel**. Just set the required environment variables in your Vercel dashboard under project settings.
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-Let me know if you want badges, screenshots, or API documentation added!
